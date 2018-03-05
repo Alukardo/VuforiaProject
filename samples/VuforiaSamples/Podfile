@@ -1,0 +1,6 @@
+platform:ios,'10.2'
+project 'VuforiaSamples.xcodeproj'
+target:VuforiaSamples do
+pod 'OpenCV', '~> 2.4.9'
+end
+
